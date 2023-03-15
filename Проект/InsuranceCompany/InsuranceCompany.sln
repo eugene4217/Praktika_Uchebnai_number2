@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceCompany", "InsuranceCompany.csproj", "{F55A5A96-DCAC-40AE-88C4-5079CF452850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "..\Classes\Classes.csproj", "{922F0B19-D5CD-4F6B-99C7-FDFBD033B7CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F55A5A96-DCAC-40AE-88C4-5079CF452850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55A5A96-DCAC-40AE-88C4-5079CF452850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55A5A96-DCAC-40AE-88C4-5079CF452850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55A5A96-DCAC-40AE-88C4-5079CF452850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922F0B19-D5CD-4F6B-99C7-FDFBD033B7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922F0B19-D5CD-4F6B-99C7-FDFBD033B7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922F0B19-D5CD-4F6B-99C7-FDFBD033B7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922F0B19-D5CD-4F6B-99C7-FDFBD033B7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC33404E-97A4-4516-A329-49CE28A3E82C}
+	EndGlobalSection
+EndGlobal
